@@ -1,4 +1,4 @@
-npm install# ReactJS Weather App
+# ReactJS Weather App
 
 A weather application built with ReactJS and Vite that fetches real-time weather data from the OpenWeatherMap API. The app provides information such as temperature, location, humidity, and wind speed. It features a clean and responsive design.
 
