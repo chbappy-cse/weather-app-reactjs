@@ -21,6 +21,19 @@ A weather application built with ReactJS and Vite that fetches real-time weather
    git clone https://github.com/your-username/reactjs-weather-app.git
    cd reactjs-weather-app
    ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Create a .env file in the root directory and add your OpenWeatherMap API key:
+   ```bash
+   VITE_APP_ID="your_openweathermap_api_key"
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open the app in your browser at http://localhost:5173.
 
 
 
